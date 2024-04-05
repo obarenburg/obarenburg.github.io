@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    padding-top: 25vh;
+    margin: auto;
+    height: 100%;
+    background-color: black;
+}
+
+.land{
+    color: green;
+}
+
+pre{
+    color: white;
+}
+
+a{
+    /* color: white; */
+    color: rgb(197, 216, 28);
+    text-decoration: none;
+}
